@@ -101,6 +101,8 @@ git branch <Имя новой ветки>
 
 ## 15. Удаление веток
 
+Удаление веток присходит с помощью команды `git branch -d <название ветки>`.
+
 Если git выдаёт ошибку по причине того, что вы удаляете ветку, которую не слили, то её можно удалить силой, используя команду `git branch -D <название ветки>`.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F7F7F7&width=435&lines=%D0%9A%D0%BE%D0%BD%D0%B5%D1%86+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8)](https://git.io/typing-svg)
