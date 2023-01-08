@@ -87,5 +87,6 @@ git branch <Имя новой ветки>
 
 ## 13. Слияние веток
 
+При слияниии веток может возникнуть конфликт, разрешением которого нужно выбрать, какую информацию добавить, либо добавить обе информации с двух веток.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=F7F7F7&width=435&lines=%D0%9A%D0%BE%D0%BD%D0%B5%D1%86+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8)](https://git.io/typing-svg)
